@@ -6,15 +6,17 @@ layout: page
 
 <img src="https://lulusun2022.github.io//lulusun.png" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Lulu Sun (Luvis, [孙露露](https://lulusun2022.github.io/file/孙露露简历.pdf))**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+
+I am currently a full-time faculty member at the **School of Electrical and Computer Engineering**, **Nanfang College, Guangzhou**. My research interests include **deep learning, machine learning, computer vision, and time series forecasting**.
+Here is [my Resume](https://caihanlin.com/file/Resume-LuluSun.pdf). 
+
+**<font color='red'>[Highlight]</font> I am seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024). Please feel free to drop me an email if you are interested!
 
 <br>
 
 ## Academic Background
-
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
 
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
 - **Sep 2020 - May 2024:** Maynooth University (BSc)
